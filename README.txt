@@ -1,3 +1,5 @@
+For the sake of the second exercise of the course Natural Language Processing, my group and I had to implement Aspect Based Sentiment Analysis on restaurant reviews. 
+
 Contributors:
 
 Arora, Aprajita - aprajita.arora@student-cs.fr
